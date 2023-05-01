@@ -1,0 +1,19 @@
+{
+  "name": "api_playwright_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "RunE2ETest": "npx playwright test /tests/E2E Test/E2E-Booking-api-test.spec.js",
+    "RunNegativeTestTokenGeneration": "npx playwright test /tests/Negative Tests/TokenGenerationNegativeTesting.js",
+    "RunAllTests" : "npx playwright test"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
+}
