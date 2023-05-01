@@ -49,10 +49,11 @@ pakage.json has the custom scripts
 #### To run all tests execute the command --> npm run RunAllTests
 #### To run negative tests execute the command --> npm run RunNegativeTestTokenGeneration
 
-## API Documentation 
+## Courtesy 
+### API Documentation 
 **https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth**
 
-## Playwright Documentation
+### Playwright Documentation
 **https://playwright.dev/docs/intro**
 
 
